@@ -5,7 +5,9 @@ date: 2020-03-20
 tags: [homeschooling,needs_fix,infodump]
 ---
 
-This is a dump of stuff from our local chat - I plan to put this on useful categorised pages.
+This is a dump of stuff from our local chat.
+
+I'm going to split this page into multiple smaller more useful pages!  But I wanted to get something going quickly.
 
 # Useful resources for parents with kids at home
 

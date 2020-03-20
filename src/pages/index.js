@@ -29,15 +29,12 @@ const IndexPage = () => {
   return (
     <Layout pageContext={pageContext} navMode="pages" metaMode="wiki">
       <SEO title="Home" />
-      <h1>Welcome to Korny's covid-19 site</h1>
+      <h1>Welcome to Korny's covid-19 info site</h1>
       <div>
-      <p>This is just somewhere I threw together quickly to collect and share useful resources related to covid-19 aka CoronaVirus.</p>
-      <p>I'm happy to receive suggested changes, either by email or (for techy folks) pull requests!  All the content is markdown or JSON, the file formats should be pretty self evident.</p>
-      <p>The CSS is pretty minimal - it's sort of responsive, but not very pretty.</p>
-      </div>
-      <div>
-      <p>See my blog post at <a href="https://blog.korny.info/2020/03/19/gatsby-digital-garden.html">https://blog.korny.info/2020/03/19/gatsby-digital-garden.html</a> for more about how this kind of site works.</p>
+      <p>See the <a href="/-/-/wiki/about/">About</a> page for more background, how to contribute, etc.</p>
       <p>This is a work in progress - I'll add more here as I find time.</p>
+      <h3>Good starting points:</h3>
+      <a href="category/parenting">The Parenting category, for parent resources</a>
       </div>
       <hr />
       <h2>Diary:</h2>
