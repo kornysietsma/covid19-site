@@ -49,7 +49,7 @@ If there isn't 960px just make everything narrower.
     "nav"
     "meta"
     "footer";
-  grid-template-columns: auto;
+  grid-template-columns: 100%;
   grid-template-rows:
     4rem
     auto

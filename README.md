@@ -2,6 +2,8 @@
 
 This is a basic "digital garden" site built [GatsbyJS](https://www.gatsbyjs.org/).
 
+You can see the published site at <https://covid19.korny.info/>
+
 If you want to add content, you can raise a PR on anything in the `/content` directory and I'll look at merging and publishing it.
 
 If you want to run this yourself, clone it, make sure you have nodejs and npm set up, then:
