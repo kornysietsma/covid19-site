@@ -5,6 +5,13 @@ module.exports = {
     author: `@kornys`,
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-137924462-2",
+        respectDNT: true,
+      },
+    },
     `gatsby-plugin-catch-links`,
     `gatsby-plugin-react-helmet`,
     {
@@ -42,45 +49,38 @@ module.exports = {
         plugins: [
           `gatsby-remark-code-titles`,
           `gatsby-remark-plantuml`,
-          'gatsby-remark-graphviz',
-          'gatsby-remark-graph',
-          'gatsby-remark-autolink-headers',
-        {
-          resolve: `gatsby-remark-embed-snippet`,
-          options: {},
-        },
-        {
-          resolve: `gatsby-remark-prismjs`,
-          options: {
-            aliases: {rs: "rust"},
-          }
-        },
-        // {
-        //   resolve: `gatsby-remark-relative-images`,
-        // },
-        {
-          resolve: `gatsby-remark-images`,
-          options: {
-            // It's important to specify the maxWidth (in pixels) of
-            // the content container as this plugin uses this as the
-            // base for generating different widths of each image.
-            maxWidth: 960,
+          "gatsby-remark-graphviz",
+          "gatsby-remark-graph",
+          "gatsby-remark-autolink-headers",
+          {
+            resolve: `gatsby-remark-embed-snippet`,
+            options: {},
           },
-        },
-      ],
+          {
+            resolve: `gatsby-remark-prismjs`,
+            options: {
+              aliases: { rs: "rust" },
+            },
+          },
+          // {
+          //   resolve: `gatsby-remark-relative-images`,
+          // },
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              // It's important to specify the maxWidth (in pixels) of
+              // the content container as this plugin uses this as the
+              // base for generating different widths of each image.
+              maxWidth: 960,
+            },
+          },
+        ],
       },
     },
     {
       resolve: `gatsby-transformer-json`,
       options: {
         typeName: `firehose`, // a fixed string
-      },
-    },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "UA-137924462-2",
-        respectDNT: true,
       },
     },
   ],
