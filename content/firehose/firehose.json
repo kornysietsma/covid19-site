@@ -39,5 +39,100 @@
     "lines": [
       "https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca"
     ]
+  },
+  {
+    "title": "worldometer country covid19 stats",
+    "category": "stats",
+    "date": "2020-03-21",
+    "tags": [
+      "stats",
+      "covid19",
+      "news"
+    ],
+    "lines": [
+      "https://www.worldometers.info/coronavirus/#countries"
+    ]
+  },
+  {
+    "title": "Our world in data",
+    "category": "stats",
+    "date": "2020-03-21",
+    "tags": [
+      "stats",
+      "news",
+      "visualization"
+    ],
+    "lines": [
+      "https://ourworldindata.org/coronavirus"
+    ]
+  },
+  {
+    "title": "When will a covid19 vaccine be available (video)",
+    "category": "prognostication",
+    "date": "2020-03-21",
+    "tags": [
+      "youtube",
+      "australia",
+      "science",
+      "vaccine"
+    ],
+    "lines": [
+      "https://m.youtube.com/watch?v=u9311Ehinnw"
+    ]
+  },
+  {
+    "title": "17.9% of people with covid19 had no symptoms",
+    "category": "research",
+    "date": "2020-03-21",
+    "tags": [
+      "news",
+      "stats",
+      "health",
+      "symptoms"
+    ],
+    "lines": [
+      "https://coronawiki.org/page/study-17-9-of-people-with-covid-19-coronavirus-had-no-symptoms"
+    ]
+  },
+  {
+    "title": "possible intervention impacts - UCL",
+    "category": "research",
+    "date": "2020-03-21",
+    "tags": [
+      "interventions",
+      "research",
+      "uk",
+      "social_distancing"
+    ],
+    "lines": [
+      "https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/"
+    ]
+  },
+  {
+    "title": "Covid19 mutual aid UK coordination site",
+    "category": "community",
+    "date": "2020-03-21",
+    "tags": [
+      "helping",
+      "community",
+      "uk"
+    ],
+    "lines": [
+      "https://covidmutualaid.org/"
+    ]
+  },
+  {
+    "title": "arcgis global cases dashboard and map",
+    "category": "stats",
+    "date": "2020-03-21",
+    "tags": [
+      "maps",
+      "dataviz",
+      "dashboards",
+      "stats"
+    ],
+    "lines": [
+      "https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"
+    ]
   }
 ]
