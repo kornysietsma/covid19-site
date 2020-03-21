@@ -76,5 +76,12 @@ module.exports = {
         typeName: `firehose`, // a fixed string
       },
     },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-137924462-2",
+        respectDNT: true,
+      },
+    },
   ],
 }
