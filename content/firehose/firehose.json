@@ -148,5 +148,116 @@
     "lines": [
       "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public"
     ]
+  },
+  {
+    "title": "kids guide to coronavirus for older kids",
+    "category": "parenting",
+    "date": "2020-03-22",
+    "tags": [
+      "parenting",
+      "guids",
+      "kids"
+    ],
+    "lines": [
+      "https://www.livescience.com/coronavirus-kids-guide.html"
+    ]
+  },
+  {
+    "title": "imagine this podcast for kids",
+    "category": "parenting",
+    "date": "2020-03-22",
+    "tags": [
+      "podcast",
+      "audio",
+      "books",
+      "kids"
+    ],
+    "lines": [
+      "https://www.abc.net.au/kidslisten/imagine-this/"
+    ]
+  },
+  {
+    "title": "Teaching with Haley online resources for learning at home",
+    "category": "parenting",
+    "date": "2020-03-22",
+    "tags": [
+      "distance_learning",
+      "resource_sites"
+    ],
+    "lines": [
+      "https://teachingwithhaley.com/2020/03/16/3-online-resources-for-learning-at-home/"
+    ]
+  },
+  {
+    "title": "commune virtual studio yoga classes",
+    "category": "health",
+    "date": "2020-03-22",
+    "tags": [
+      "health",
+      "yoga"
+    ],
+    "lines": [
+      "https://www.wecommune.com/groups/2016291/feed"
+    ]
+  },
+  {
+    "title": "ten percent happier coronavirus sanity guide",
+    "category": "health",
+    "date": "2020-03-22",
+    "tags": [
+      "mental_health",
+      "health"
+    ],
+    "lines": [
+      "https://www.tenpercent.com/coronavirussanityguide"
+    ]
+  },
+  {
+    "title": "Yoga with Adriene youtube channel",
+    "category": "health",
+    "date": "2020-03-22",
+    "tags": [
+      "yoga",
+      "health"
+    ],
+    "lines": [
+      "https://www.youtube.com/user/yogawithadriene"
+    ]
+  },
+  {
+    "title": "ekhart yoga playful movement practices",
+    "category": "health",
+    "date": "2020-03-22",
+    "tags": [
+      "yoga",
+      "health"
+    ],
+    "lines": [
+      "https://www.ekhartyoga.com/programs/108/5-playful-movement-practices"
+    ]
+  },
+  {
+    "title": "Home 30 day yoga journey",
+    "category": "health",
+    "date": "2020-03-22",
+    "tags": [
+      "yoga",
+      "health"
+    ],
+    "lines": [
+      "https://www.youtube.com/playlist?list=PLui6Eyny-UzzFFfpiil94CUrWKVMaqmkm"
+    ]
+  },
+  {
+    "title": "online resources for learning at home",
+    "category": "parenting",
+    "date": "2020-03-22",
+    "tags": [
+      "remote_learning",
+      " parenting"
+    ],
+    "lines": [
+      "https://teachingwithhaley.com/2020/03/16/3-online-resources-for-learning-at-home/"
+    ]
   }
 ]
