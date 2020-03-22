@@ -2,7 +2,7 @@
 title: notes from a colleague in Wuhan
 category: blog
 date: 2020-03-21
-tags: [wuhan,self_isolation,blog,personal]
+tags: [wuhan,self_isolation,stories]
 ---
 On a work discussion about self isolation, a colleague from Wuhan popped up - her experience was fascinating, as a glimpse of how this is playing out there:
 

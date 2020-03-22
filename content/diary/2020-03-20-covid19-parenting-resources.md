@@ -2,7 +2,7 @@
 title: covid19 learning resources
 category: parenting
 date: 2020-03-20
-tags: [homeschooling,needs_fix,infodump]
+tags: [distance_learning]
 ---
 
 This was a dump of stuff from our local chat.

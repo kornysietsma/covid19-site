@@ -2,7 +2,7 @@
 title: distance learning Q&A
 category: parenting
 date: 2020-03-21
-tags: [distance_learning,education]
+tags: [distance_learning, article, education]
 ---
 
 This came from a Facebook thread - great perspective on the whole "what to do when school closes" thing

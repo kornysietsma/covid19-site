@@ -1,7 +1,7 @@
 ---
 title: Exploration sites for kids
 category: parenting
-tags: [homeschooling,needs_fix,fun]
+tags: [distance_learning,play,fun]
 ---
 This is more general knowledge and entertainment, rather than specific learning resources
 

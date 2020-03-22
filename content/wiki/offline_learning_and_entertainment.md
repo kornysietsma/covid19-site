@@ -1,7 +1,7 @@
 ---
 title: Offline learning and entertainment ideas
 category: parenting
-tags: [homeschooling,offline,needs_fix]
+tags: [distance_learning,offline,needs_fix]
 ---
 This page needs more content!
 

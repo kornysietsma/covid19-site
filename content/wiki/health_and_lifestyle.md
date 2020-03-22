@@ -1,7 +1,7 @@
 ---
 title: Health and lifestyle
-category: parenting
-tags: [health,mind]
+category: health
+tags: [health,mental_health,yoga]
 ---
 
 ## Online yoga lessons

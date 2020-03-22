@@ -134,5 +134,19 @@
     "lines": [
       "https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"
     ]
+  },
+  {
+    "title": "WHO advice for the public",
+    "category": "resources",
+    "date": "2020-03-22",
+    "tags": [
+      "who",
+      "advice",
+      "science_based",
+      "resource_pages"
+    ],
+    "lines": [
+      "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public"
+    ]
   }
 ]

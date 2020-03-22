@@ -2,7 +2,7 @@
 title: Hello folks
 category: blog
 date: 2020-03-20
-tags: [blog,personal,tech]
+tags: [personal,tech]
 ---
 Hi folks who've found this site.
 

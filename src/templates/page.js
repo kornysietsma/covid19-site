@@ -9,7 +9,8 @@ export default ({ data, pageContext }) => {
     <Layout pageContext={pageContext} metadata={{toc: post.tableOfContents}} navMode='pages' metaMode='pageToc'>
       <div>
         <h1>{postData.title}</h1>
-        <h2>{postData.date.format('YYYY-MM-DD')}</h2>
+        {postData.kind === "diary" ? 
+        (<h2>{postData.date.format('YYYY-MM-DD')}</h2>) : ""}
         <div><span className="button-group-name">Category</span>
         <Link
             key={postData.category}

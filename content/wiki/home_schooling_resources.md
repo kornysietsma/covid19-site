@@ -1,7 +1,7 @@
 ---
 title: Home Schooling resources
 category: parenting
-tags: [homeschooling,needs_fix,infodump]
+tags: [distance_learning,needs_fix,info_list]
 ---
 
 _TODO_: make these URLs

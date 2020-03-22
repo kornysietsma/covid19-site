@@ -1,8 +1,8 @@
 ---
-title: Personal update
+title: Saturday update
 category: blog
 date: 2020-03-21
-tags: [blog,diary,personal]
+tags: [personal]
 ---
 
 Things are doing OK for us - we're isolating almost completely from other people, grabbing chances to go outdoors in natural areas where we don't have to touch anything!
@@ -13,4 +13,4 @@ This website is only slowly gaining content - I'm dumping useful stuff in the [f
 
 I should shut down now and de-stress for a bit!
 
-- Korny
+\- Korny
