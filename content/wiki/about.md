@@ -4,7 +4,9 @@ category: meta
 tags: [website,tech]
 ---
 
-This is just a site I threw together quickly to collect and share useful resources related to covid-19 aka CoronaVirus.  
+This is just a site I threw together quickly to collect and share useful resources related to covid-19 aka CoronaVirus.
+I already had a similar site I use privately, and I thought it'd be easy to extract the covid-19 bits into a public resource.
+See my blog post at <https://blog.korny.info/2020/03/19/gatsby-digital-garden.html> for more about how this kind of site works!
 
 The source code and content is at <https://github.com/kornysietsma/covid19-site>
 
