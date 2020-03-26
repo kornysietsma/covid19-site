@@ -1,23 +1,5 @@
 [
   {
-    "title": "info is beautiful coronavirus graphic",
-    "category": "personal",
-    "date": "2020-03-11",
-    "tags": ["covid19", "health", "infographic", "dataviz"],
-    "lines": [
-      "https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/"
-    ]
-  },
-  {
-    "title": "ars technica article on covid19 in depth",
-    "category": "personal",
-    "date": "2020-03-11",
-    "tags": ["covid19", "health"],
-    "lines": [
-      "https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technica-guide-to-the-coronavirus/"
-    ]
-  },
-  {
     "title": "get real - drug research and coronavirus",
     "category": "world",
     "date": "2020-03-11",
@@ -34,38 +16,6 @@
     "lines": ["https://coronavirustechhandbook.com/"]
   },
   {
-    "title": "Coronavirus world map",
-    "category": "world",
-    "date": "2020-03-14",
-    "tags": ["covid19", "map", "dataviz"],
-    "lines": [
-      "https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"
-    ]
-  },
-  {
-    "title": "stay at home uk govt advice",
-    "category": "covid19",
-    "date": "2020-03-20",
-    "tags": ["covid19", "work", "uk", "remote", "wfh"],
-    "lines": [
-      "https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance"
-    ]
-  },
-  {
-    "title": "SMBC books during covid https://www.smbc-comics.com/covid/",
-    "date": "2020-03-17",
-    "category": "reading",
-    "tags": ["comics", "books", "covid19"],
-    "lines": [""]
-  },
-  {
-    "title": "https://www.thoughtworks.com/remote-work-playbook",
-    "date": "2020-03-17",
-    "category": "work",
-    "tags": ["covid19", "thoughtworks", "remote_work", "wfh"],
-    "lines": [""]
-  },
-  {
     "title": "COVIBOOK | Mindheart",
     "date": "2020-03-18",
     "category": "to_fix",
@@ -73,17 +23,6 @@
     "lines": [
       "",
       "https://www.mindheart.co/descargables?fbclid=IwAR114wQXdZg1byRVDt6AaRatuQLAvFdgrtXll7NNBPp0QO1xIlKQuIs-ibs",
-      ""
-    ]
-  },
-  {
-    "title": "COVID-19 reports | Faculty of Medicine | Imperial College London",
-    "date": "2020-03-19",
-    "category": "covid19",
-    "tags": ["medicine", "covid19", "uk"],
-    "lines": [
-      "",
-      "https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/",
       ""
     ]
   },

@@ -20,3 +20,8 @@ This project is based on the default gatsby starter as used in the [Gatsby tutor
 
 Note to self: publish changes to github site with:
 `npm run deploy`
+
+There's a special "/duplicates" url to show duplicate links!
+
+NOTE: I've had to lock the version of normalize-url to 4.0 because of https://github.com/sindresorhus/normalize-url/issues/105
+

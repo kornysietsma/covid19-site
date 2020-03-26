@@ -27,46 +27,6 @@
     ]
   },
   {
-    "title": "Tomas Pueyo medium article",
-    "category": "blogs",
-    "date": "2020-03-20",
-    "tags": [
-      "medium",
-      "stats",
-      "graphs",
-      "prognostication"
-    ],
-    "lines": [
-      "https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca"
-    ]
-  },
-  {
-    "title": "worldometer country covid19 stats",
-    "category": "stats",
-    "date": "2020-03-21",
-    "tags": [
-      "stats",
-      "covid19",
-      "news"
-    ],
-    "lines": [
-      "https://www.worldometers.info/coronavirus/#countries"
-    ]
-  },
-  {
-    "title": "Our world in data",
-    "category": "stats",
-    "date": "2020-03-21",
-    "tags": [
-      "stats",
-      "news",
-      "visualization"
-    ],
-    "lines": [
-      "https://ourworldindata.org/coronavirus"
-    ]
-  },
-  {
     "title": "When will a covid19 vaccine be available (video)",
     "category": "prognostication",
     "date": "2020-03-21",
@@ -95,20 +55,6 @@
     ]
   },
   {
-    "title": "possible intervention impacts - UCL",
-    "category": "research",
-    "date": "2020-03-21",
-    "tags": [
-      "interventions",
-      "research",
-      "uk",
-      "social_distancing"
-    ],
-    "lines": [
-      "https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/"
-    ]
-  },
-  {
     "title": "Covid19 mutual aid UK coordination site",
     "category": "community",
     "date": "2020-03-21",
@@ -119,34 +65,6 @@
     ],
     "lines": [
       "https://covidmutualaid.org/"
-    ]
-  },
-  {
-    "title": "arcgis global cases dashboard and map",
-    "category": "stats",
-    "date": "2020-03-21",
-    "tags": [
-      "maps",
-      "dataviz",
-      "dashboards",
-      "stats"
-    ],
-    "lines": [
-      "https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"
-    ]
-  },
-  {
-    "title": "WHO advice for the public",
-    "category": "resources",
-    "date": "2020-03-22",
-    "tags": [
-      "who",
-      "advice",
-      "science_based",
-      "resource_pages"
-    ],
-    "lines": [
-      "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public"
     ]
   },
   {
@@ -246,18 +164,6 @@
     ],
     "lines": [
       "https://www.youtube.com/playlist?list=PLui6Eyny-UzzFFfpiil94CUrWKVMaqmkm"
-    ]
-  },
-  {
-    "title": "online resources for learning at home",
-    "category": "parenting",
-    "date": "2020-03-22",
-    "tags": [
-      "remote_learning",
-      " parenting"
-    ],
-    "lines": [
-      "https://teachingwithhaley.com/2020/03/16/3-online-resources-for-learning-at-home/"
     ]
   },
   {
