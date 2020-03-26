@@ -14,7 +14,6 @@ const FirehoseEntry = ({ node }) => {
   const titleIsUrl = urlRegex({ exact: true }).test(title)
   const titleUrlMatches = title.match(urlRegex())
   const titleUrlCount = titleUrlMatches ? titleUrlMatches.length : 0
-  console.log("title", title, titleIsUrl, titleUrlCount)
 
   let cleanLines = node.lines.map(l => l.trim()).filter(l => l.length > 0)
 
@@ -66,8 +65,6 @@ const FirehoseEntry = ({ node }) => {
       })}
     </ul>
   )
-
-  console.log("lines", cleanLines, lineIsUrl)
 
   return (
     <li key={node.id}>

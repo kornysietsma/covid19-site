@@ -1,5 +1,25 @@
 import { useStaticQuery, graphql } from "gatsby"
 import moment from "moment"
+const urlRegex = require("url-regex")
+const normalizeUrl = require("normalize-url")
+
+function safeNormalizeUrl(url) {
+  try {
+    return normalizeUrl(url, { stripHash: true })
+  } catch (e) {
+    console.log("Can't normalize:", url, e);
+    return url;
+  }
+}
+
+const firehoseUrls = (title, lines) => {
+  const titleUrlMatches = title.match(urlRegex()) || []
+  let cleanLines = lines.map(l => l.trim()).filter(l => l.length > 0)
+  const lineUrlMatches = cleanLines.flatMap(l => l.match(urlRegex())) || [];
+  const allUrls =  [...titleUrlMatches, ...lineUrlMatches];
+  const urls = [...new Set(allUrls)].filter(u => u).map(url => safeNormalizeUrl(url)).sort();
+  return urls
+}
 
 export const useFirehoseData = () => {
   const { allFirehose } = useStaticQuery(graphql`
@@ -25,10 +45,10 @@ export const useFirehoseData = () => {
     }
   `)
 
-  // need to normalize the data
   const firehoseEntries = allFirehose.edges.map(({ node }) => {
     return {
       title: node.title,
+      urls: firehoseUrls(node.title, node.lines),
       category: node.category,
       tags: node.tags,
       lines: node.lines,
