@@ -131,18 +131,6 @@
     ]
   },
   {
-    "title": "Yoga with Adriene youtube channel",
-    "category": "health",
-    "date": "2020-03-22",
-    "tags": [
-      "yoga",
-      "health"
-    ],
-    "lines": [
-      "https://www.youtube.com/user/yogawithadriene"
-    ]
-  },
-  {
     "title": "ekhart yoga playful movement practices",
     "category": "health",
     "date": "2020-03-22",
@@ -152,18 +140,6 @@
     ],
     "lines": [
       "https://www.ekhartyoga.com/programs/108/5-playful-movement-practices"
-    ]
-  },
-  {
-    "title": "Home 30 day yoga journey",
-    "category": "health",
-    "date": "2020-03-22",
-    "tags": [
-      "yoga",
-      "health"
-    ],
-    "lines": [
-      "https://www.youtube.com/playlist?list=PLui6Eyny-UzzFFfpiil94CUrWKVMaqmkm"
     ]
   },
   {
@@ -226,5 +202,313 @@
     "lines": [
       "https://www.theguardian.com/world/2020/mar/27/inside-the-race-to-develop-a-coronavirus-vaccine-covid-19"
     ]
-  }
+  },
+  {
+    "title": "heat tracking mobile data",
+    "category": "info",
+    "date": "2020-03-28",
+    "tags": [
+      "info",
+      "distancing",
+      "dataviz"
+    ],
+    "lines": [
+      "https://www.newsweek.com/x-mode-tectonix-coronavirus-heat-map-tracking-mobile-data-covid-19-spring-break-1494663",
+      "https://twitter.com/TectonixGEO/status/1242628347034767361"
+    ]
+  },
+  {
+    "title": "Harvey and Brockless food",
+    "category": "info",
+    "date": "2020-03-31",
+    "tags": [
+      "wholesalers",
+      "food",
+      "uk",
+      "delivery"
+    ],
+    "lines": [
+      "https://www.harveyandbrockless.co.uk/orderonline"
+    ]
+  },
+  {
+    "title": "Maddie Moate | Maddie Moate Presenter",
+    "date": "2020-03-31",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      "#+TITLE: Inbox for triage",
+      "#+SETUPFILE: ~/DropBox/apps/emacs/orgstuff/org-html-themes/setup/theme-readtheorg.setup",
+      "",
+      "",
+      "https://www.maddiemoate.com/",
+      ""
+    ]
+  },
+  {
+    "title": "baking and making yeast thread https://threadreaderapp.com/thread/1244252079041974272.html",
+    "date": "2020-04-01",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      ""
+    ]
+  },
+  {
+    "title": "Internet Archive defends offering books free during the coronavirus shutdown: \"Right now, today, there are 650 million books that tax-paying citizens have paid to access that are sitting on shelves in closed libraries, inaccessible to them.\"",
+    "date": "2020-04-01",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      "",
+      "https://blog.archive.org/2020/03/30/internet-archive-responds-why-we-released-the-national-emergency-library/",
+      ""
+    ]
+  },
+  
+  {
+    "title": "UK coronavirus lockdown: police reissued with guidance on enforcement",
+    "date": "2020-04-01",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      "",
+      "UK coronavirus lockdown: police reissued with guidance on enforcement",
+      "",
+      "https://www.theguardian.com/world/2020/mar/31/uk-police-reissued-with-guidance-on-enforcing-coronavirus-lockdown?CMP=Share_AndroidApp_Orgzly",
+      ""
+    ]
+  },
+  {
+    "title": "https://www.fourpillarsgin.com.au/buying/heads-tails-clean-hands/",
+    "date": "2020-04-02",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      ""
+    ]
+  },
+  {
+    "title": "Boss accidentally morphs into potato during videoconference",
+    "date": "2020-04-02",
+    "category": "to_fix",
+    "tags": [
+      "humour",
+      "video",
+      "zoom"
+    ],
+    "lines": [
+      "",
+      "https://nypost.com/2020/03/31/boss-accidentally-morphs-into-potato-during-videoconference/",
+      ""
+    ]
+  },
+  {
+    "title": "Education.com | #1 Educational Site for Pre-K through 5",
+    "date": "2020-03-26",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      "#+TITLE: Inbox for triage",
+      "#+SETUPFILE: ~/DropBox/apps/emacs/orgstuff/org-html-themes/setup/theme-readtheorg.setup",
+      "",
+      "",
+      "https://www.education.com/",
+      ""
+    ]
+  },
+  {
+    "title": "The Ibuprofen Debate Reveals the Danger of Covid-19 Rumors | WIRED",
+    "date": "2020-03-27",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      "",
+      "https://www.wired.com/story/the-ibuprofen-debate-reveals-the-danger-of-covid-19-rumors/",
+      ""
+    ]
+  },
+  {
+    "title": "Watch \"WILD KIDZ VIDZ -STICK INSECTS\" on YouTube",
+    "date": "2020-03-27",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      "",
+      "https://youtu.be/TlJlHTpI2Sw",
+      ""
+    ]
+  },
+  {
+    "title": "https://www.nytimes.com/interactive/2020/03/21/upshot/coronavirus-deaths-by-country.html",
+    "date": "2020-03-27",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      ""
+    ]
+  },
+  {
+    "title": "https://covidactnow.org/",
+    "date": "2020-03-27",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      ""
+    ]
+  },
+  {
+    "title": "Let's stay connected #CirqueConnect",
+    "date": "2020-03-27",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      "",
+      "https://www.cirquedusoleil.com/cirqueconnect",
+      ""
+    ]
+  },
+ {
+    "title": "https://novaramedia.com/2020/03/27/coronavirus-has-destroyed-the-nhs-internal-market-overnight-proving-that-it-never-worked/",
+    "date": "2020-03-28",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      ""
+    ]
+  },
+  {
+    "title": "20 learning apps for stir-crazy kids",
+    "date": "2020-03-29",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      "",
+      "20 learning apps for stir-crazy kids",
+      "",
+      "https://www.theguardian.com/technology/2020/mar/29/learning-apps-for-stir-crazy-kids-while-schools-are-closed?CMP=Share_AndroidApp_Orgzly",
+      ""
+    ]
+  },
+  {
+    "title": "https://aatishb.com/covidtrends/",
+    "date": "2020-03-29",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      ""
+    ]
+  },
+  {
+    "title": "Watch \"How To Tell If We're Beating COVID-19\" on YouTube",
+    "date": "2020-03-29",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      "",
+      "https://youtu.be/54XLXg4fYsc",
+      ""
+    ]
+  },
+  {
+    "title": "Have some fun | BookTrust",
+    "date": "2020-03-26",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      "",
+      "https://www.booktrust.org.uk/hometime",
+      ""
+    ]
+  },
+  {
+    "title": "COVID Symptom Tracker",
+    "date": "2020-03-26",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      "",
+      "https://covid.joinzoe.com/",
+      ""
+    ]
+  },
+  {
+    "title": "Contents | Coronavirus Tech Handbook",
+    "date": "2020-03-26",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      "",
+      "https://coronavirustechhandbook.com/home",
+      ""
+    ]
+  },
+  {
+    "title": "https://ourworldindata.org/covid-testing",
+    "date": "2020-03-23",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      "#+TITLE: Inbox for triage",
+      "#+SETUPFILE: ~/DropBox/apps/emacs/orgstuff/org-html-themes/setup/theme-readtheorg.setup",
+      "",
+      ""
+    ]
+  },
+  {
+    "title": "Maths with Lego Babyccino Kids: Daily tips, Children's products, Craft ideas, Recipes & More",
+    "date": "2020-03-23",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      "",
+      "https://babyccinokids.com/blog/2016/01/22/maths-with-lego/",
+      ""
+    ]
+  },
+    {
+    "title": "Digital Planet - The online coronavirus tech handbook - BBC Sounds",
+    "date": "2020-03-26",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      "",
+      "https://www.bbc.co.uk/sounds/play/p086xg5j",
+      ""
+    ]
+  },
+  {
+    "title": "https://twitter.com/ClareSudbery/status/1239361950758338561?s=09",
+    "date": "2020-03-24",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      "",
+      "Clare notes on remote covid work",
+      ""
+    ]
+  },
+  {
+    "title": "https://www.qmhc.qld.gov.au/awareness-promotion/prevention/coronavirus-and-mental-health",
+    "date": "2020-03-25",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      ""
+    ]
+  },
+  {
+    "title": "Self-Isolating | Your Wellbeing Bedfordshire",
+    "date": "2020-03-22",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      "#+TITLE: Inbox for triage",
+      "#+SETUPFILE: ~/DropBox/apps/emacs/orgstuff/org-html-themes/setup/theme-readtheorg.setup",
+      "",
+      "",
+      "https://yourwellbeingbedfordshire.org.uk/self-isolating-need-something-to-do/",
+      ""
+    ]
+  }  
 ]
