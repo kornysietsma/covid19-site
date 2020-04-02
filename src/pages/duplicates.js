@@ -23,17 +23,14 @@ const DuplicatesPage = () => {
 
   var urlMap = new Map();
   firehoseUrlData.forEach(({file, urls}) => {
-    console.log("handling file:", file, urls)
     urls.forEach(url => {
       if (!urlMap.has(url)) {
         urlMap.set(url,[]);
       }
       var entry = urlMap.get(url);
-      console.log(entry);
       urlMap.set(url, [...entry, file]);
     })
   })
-  console.log(urlMap);
   pageUrlData.forEach(({file, urls}) => {
     urls.forEach(url => {
       if (!urlMap.has(url)) {
