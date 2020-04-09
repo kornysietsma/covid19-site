@@ -510,5 +510,64 @@
       "https://yourwellbeingbedfordshire.org.uk/self-isolating-need-something-to-do/",
       ""
     ]
+  },
+  {
+    "title": "BBC News: The Gruffalo author Julia Donaldson shows her characters social distancing",
+    "date": "2020-04-03",
+    "category": "to_fix",
+    "tags": ["kids","social_distancing","video"],
+    "lines": [
+      "",
+      "BBC News - The Gruffalo author Julia Donaldson shows her characters social distancing",
+      "https://www.bbc.co.uk/news/entertainment-arts-52149055",
+      ""
+    ]
+  },
+  {
+    "title": "Coronavirus UK death toll: why what we think we know is wrong",
+    "date": "2020-04-05",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      "",
+      "Coronavirus UK death toll: why what we think we know is wrong",
+      "",
+      "https://www.theguardian.com/world/2020/apr/04/why-what-we-think-we-know-about-the-uks-coronavirus-death-toll-is-wrong?CMP=Share_AndroidApp_Orgzly",
+      ""
+    ]
+  },
+  {
+    "title": "epirust epidemiology simulator in rust by ThoughtWorks",
+    "date": "2020-04-05",
+    "category": "tech",
+    "tags": ["tech","thoughtworks","coding","research"],
+    "lines": [
+      "",
+      "https://github.com/thoughtworks/epirust/blob/master/README.md",
+      ""
+    ]
+  },
+      {
+    "title": "Google made site with aggregated location data to pull reports for what areas are actually following stay at home orders.",
+    "date": "2020-04-04",
+    "category": "to_fix",
+    "tags": [],
+    "lines": [
+      "",
+      "https://www.google.com/covid19/mobility/",
+      ""
+    ]
+  },
+      {
+    "title": "https://www.bleepingcomputer.com/news/software/how-to-secure-your-zoom-meetings-from-zoom-bombing-attacks/",
+    "date": "2020-04-03",
+    "category": "to_fix",
+    "tags": ["zoom","remote_work","security","tech"],
+    "lines": [
+      "#+TITLE: Inbox for triage",
+      "#+SETUPFILE: ~/DropBox/apps/emacs/orgstuff/org-html-themes/setup/theme-readtheorg.setup",
+      "",
+      ""
+    ]
   }  
 ]

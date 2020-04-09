@@ -6,6 +6,11 @@ tags: [distance_learning,needs_fix,info_list]
 
 _TODO_: make these URLs
 
+# Sites with lists of their own
+
+* [Covid19 home schooling survival pack](http://www.a4dbl.co.uk/covid19/index.html)
+
+
 # Online resources
 
 - BrainPop
@@ -25,7 +30,8 @@ https://classroommagazines.scholastic.com/support/learnathome.html
 
 # YouTube Channels
 
-- Crash Course Kids
+- [Crash course](https://thecrashcourse.com) YouTube videos on many subjects
+- [Crash Course Kids](https://www.youtube.com/user/crashcoursekids) as above for kids - currently "5th Grade Science"
 - Science Channel
 - SciShow Kids
 - National  Geographic Kids
@@ -46,11 +52,17 @@ https://www.icanteachmychild.com/human-body-activities-for-kids
 
 # Home Schooling
 
-This is the awesome free curriculum that we use. Everything from preschool activities to 12th grade is here!
+"A complete, free online Christian homeschool curriculum for your family and mine"
+
+Mostly web-based - useful for a kid old enough to be on a computer, not so sure on toddlers.
+
+Actually some of them are paper-and-pencil based.
 
 https://allinonehomeschool.com/
 
 List of thinking games by grade: https://allinonehomeschool.com/thinking/
+
+[Getting Ready 1](https://allinonehomeschool.com/getting-ready-1/) for pre-schoolers
 
 # Other uncategorised free learning websites 
 
@@ -142,13 +154,6 @@ The Kids Should See This
 https://thekidshouldseethis.com
 Wide range of cool educational videos
 
-Crash Course
-https://thecrashcourse.com
-You Tube videos on many subjects
-
-Crash Course Kids
-https://m.youtube.com/user/crashcoursekids
-As above for a younger audience
 
 Crest Awards
 https://www.crestawards.org
@@ -184,7 +189,7 @@ Resources for English language learning
 
 Oxford Owl for Home
 https://www.oxfordowl.co.uk/for-home/
-Lots of free resources for Primary age
+Lots of free resources for Primary age - this is Oxford University Press, great links
 
 Big History Project
 https://www.bighistoryproject.com/home
@@ -199,7 +204,7 @@ https://www.bbc.co.uk/cbbc/joinin/about-blue-peter-badges
 If you have a stamp and a nearby post box.
 
 The Artful Parent
-https://www.facebook.com/artfulparent/
+https://www.facebook.com/artfulparent/ and https://artfulparent.com 
 Good, free art activities 
 
 Red Ted Art
@@ -228,3 +233,6 @@ This is the BBC4 radio podcast - huge numbers of history podcasts available for 
 
 https://www.bbc.co.uk/programmes/articles/2Dw1c7rxs6DmyK0pMRwpMq1/archive
 
+# Other unsorted bits
+
+* https://babyccinokids.com/blog/2016/01/22/maths-with-lego/
