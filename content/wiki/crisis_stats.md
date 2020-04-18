@@ -14,5 +14,7 @@ There is masses of info out there - I'm just listing some of the more useful pla
 
 * [Information is Beautiful page](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/) - not I've had friends criticise this for some editorialising - comments which don't reflect the data (this was a while ago, they may have improved)
 
+* [91-divoc](https://91-divoc.com/pages/covid-visualization/) with very nice interactive charts based on open data
+
 * [Don't Panic - Ars Tecnica in-depth coronavirus page](https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technica-guide-to-the-coronavirus/)
 

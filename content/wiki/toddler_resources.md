@@ -28,6 +28,8 @@ All in one HomeSchool has a printable curriculum at [Getting Ready 1](https://al
 
 [Oxford Owl at Home](https://home.oxfordowl.co.uk/) has lots of learning stuff [including a 3-4 year age group](https://home.oxfordowl.co.uk/help-child-learn-age-3-4/) - this is from OUP! Some downloadable, some for purchase
 
+[Scholastic books](https://shop.scholastic.co.uk/homelearning) has a free home learning site - some cool stuff but an awful lot is teasers with links to members-only resources
+
 #### Nature and wildlife
 
 The [Woodland Trust](https://www.woodlandtrust.org.uk/) had a blog at https://www.woodlandtrust.org.uk/blog/2020/03/nature-detectives/ which now points to a bunch of other things:
@@ -37,6 +39,14 @@ The [Woodland Trust](https://www.woodlandtrust.org.uk/) had a blog at https://ww
 [5 nature activities for adults](https://www.woodlandtrust.org.uk/blog/2020/04/self-isolation-home-nature-activities/)
 
 [Nature quizzes!](https://www.woodlandtrust.org.uk/blog/categories/quizzes/)
+
+#### Art and craft specific
+
+[Red Ted Art](https://www.redtedart.com/) has lots of cute kid creative things
+
+They also have a [Stuck at home playlist](https://www.youtube.com/playlist?list=PL2vt_TPKQbZqVDEhCfcCqTjEwVYfj-q6Z) for at-home craft fun!
+
+Following a trail of links got me to [Mr Printables](https://mrprintables.com/) with lots of printable bits
 
 ### Online
 

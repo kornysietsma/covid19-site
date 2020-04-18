@@ -13,20 +13,18 @@ _TODO_: make these URLs
 
 # Online resources
 
-- BrainPop
-- Curiosity Stream
-- Tynker
-- Outschool
-- Udemy
-- iReady
-- Beast Academy (Math)
-- Khan Academy
-- Creative Bug
-- Discovery Education
-
-* Scholastic has created a free learn-from-home site with 20+ days of learning and activities.
-
-https://classroommagazines.scholastic.com/support/learnathome.html
+- [BrainPop](https://www.brainpop.com/) - online learning site, with a jr for k-4 (kinder to year 4?) and free family access for covid-19
+- [Curiosity Stream](https://curiositystream.com/) - documentary streaming site, paid only? older kids
+- [Tynker](https://www.tynker.com/) kids coding starting at age 5-7
+- [Outschool](https://outschool.com/) live online classes ages 3-18 - paid, with free outschool.org for families in need
+- [Udemy](https://www.udemy.com/) giant online education site, paid, with covid discounts
+- [iReady](http://i-readycentral.com/familycenter/what-is-i-ready/) - USA only? paid learning
+- [Beast Academy](https://beastacademy.com/) Math online + books, paid with covid discount, older kids
+- [Khan Academy](https://www.khanacademy.org/) and [their kids apps](https://learn.khanacademy.org/khan-academy-kids/) a nonprofit education place of awesomeness.  Kid app might need a microphone??  Free I think.
+- [Creative Bug](https://www.creativebug.com/) online arts and crafts training courses (paid)
+- [Discovery Education](https://www.discoveryeducation.co.uk/) - classroom resources (paid with some free content)
+- [Scholastic books](https://www.scholastic.co.uk/)  has created a free learn-from-home site with 20+ days of learning and activities. https://shop.scholastic.co.uk/homelearning but an awful lot is teasers with links to members-only resources
+    US site: https://classroommagazines.scholastic.com/support/learnathome.html
 
 # YouTube Channels
 
